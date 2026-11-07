@@ -1,4 +1,4 @@
-## hey, I'm Chethan 👋
+## yaho, I'm Chethan 👋
 
 2nd year engineering student at St Joseph Engineering College, Mangalore.
 Extremely moody, but I like building things that might actually be useful to people.
