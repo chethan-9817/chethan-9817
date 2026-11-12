@@ -29,6 +29,22 @@ and lately I've been messing around with LLMs and RAG a lot.
 - learning how RAG pipelines behave outside of tutorials
 - trying to finish projects instead of starting new ones (not going well)
 
+### activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=chethan-9817&theme=dark&background=0D1117&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=chethan-9817&theme=default&hide_border=true">
+    <img alt="my GitHub streak" src="https://streak-stats.demolab.com?user=chethan-9817&theme=default&hide_border=true">
+  </picture>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=chethan-9817&bg_color=0d1117&color=c9d1d9&title_color=c9d1d9&line=39d353&point=26a641&area=true&area_color=39d353&hide_border=true&custom_title=contribution%20activity">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=chethan-9817&bg_color=ffffff&color=24292f&title_color=24292f&line=2da44e&point=1a7f37&area=true&area_color=2da44e&hide_border=true&custom_title=contribution%20activity">
+  <img alt="my contribution activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chethan-9817&bg_color=ffffff&color=24292f&title_color=24292f&line=2da44e&point=1a7f37&area=true&area_color=2da44e&hide_border=true&custom_title=contribution%20activity">
+</picture>
+
 <br>
 
 <picture>
